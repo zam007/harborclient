@@ -1,6 +1,7 @@
 # harborclient
 
-用go编写，通过harbor API控制doker的工具
+用go编写，通过harbor API控制doker的工具；
+harbor相关信息在conf/conf.go目录中填写；
 
 ## 用法
 #### 1.遍历所有repo，只保留最近30次tag
